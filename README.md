@@ -1,4 +1,5 @@
 Arduino Home-Automation
 
-Primairly uses esp8266 NodeMCU board and arduino uno. 
+Blynk Home-Automation system
 
+Primairly uses esp8266 NodeMCU/ESP8266
